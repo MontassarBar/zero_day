@@ -1,2 +1,2 @@
-hello ubunto
+hello ubuntu
 
